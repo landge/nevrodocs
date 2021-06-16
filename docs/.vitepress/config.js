@@ -1,4 +1,4 @@
 module.exports = {
-    title = 'Nevrodocs',
-    description = 'Just playing around'
+    title : 'Nevrodocs',
+    description : 'Just playing around'
 }
